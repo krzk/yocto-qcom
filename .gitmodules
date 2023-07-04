@@ -6,3 +6,7 @@
 	path = meta-openembedded
 	url = http://cgit.openembedded.org/meta-openembedded
 	branch = master
+[submodule "meta-qcom"]
+	path = meta-qcom
+	url = https://github.com/Linaro/meta-qcom.git
+	branch = master
